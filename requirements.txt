@@ -1,5 +1,16 @@
 numpy
 pandas
 seaborn
-
+scikit-learn
+# sklearn.metrics
+# sklearn.model_selection
+# sklearn.preprocessing
+# sklearn.neighbors
+# sklearn.tree
+# sklearn.ensemble
+# sklearn.tree
+# sklearn.svm
+# sklearn.linear_model
+catboost
+xgboost
 -e .
