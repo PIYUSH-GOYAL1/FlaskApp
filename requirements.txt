@@ -13,4 +13,6 @@ scikit-learn
 # sklearn.linear_model
 catboost
 xgboost
--e .
+dill
+pickle
+# -e .
